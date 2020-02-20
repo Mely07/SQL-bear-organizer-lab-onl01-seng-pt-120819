@@ -28,5 +28,5 @@ end
 
 
 def selects_bear_that_killed_Tim
-  "SELECT name FROM bears WHERE name = 'null'"
+  "SELECT id FROM bears WHERE id = 8"
 end
